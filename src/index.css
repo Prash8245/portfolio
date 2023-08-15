@@ -1,0 +1,118 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+  overflow-x: hidden;
+}
+
+body {
+  margin: 0;
+  font-family: "Times New Roman", -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-image: url('./Components/images/flat-lay-workstation-with-copy-space-laptop.jpg'); */
+  background-color: rgb(58, 54, 54);
+  background-size: cover;
+  overflow-x: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  /* background-color: transparent; */
+  background-color: rgba(116, 108, 108, 0.481);
+
+  width: 100%;
+}
+
+.navbar div ul{
+  display: flex;
+}
+
+.navbar div div ul li{
+  list-style: none;
+  margin: 1.5rem;
+  font-weight: bold;
+  font-size: larger;
+  color: white;
+}
+
+.navbar .logo{
+  margin: 1.5rem;
+}
+
+.navbar .logo img{
+  width:5rem;
+  height: 5rem; 
+  /* border-radius: 40%; */
+}
+
+.navbar div div span{
+  font-weight: bold;
+  font-size: x-large;
+}
+
+/* #menuList{
+  background-color: lightcyan;
+  
+} */
+
+#menuList li{
+  padding: 0.5rem;
+  background-color: gray;
+  margin: 4px;
+  border-radius: 5px;
+  color: white;
+  font-size: larger;
+}
+
+
+/* Section 1 */
+
+/* #deskImg{
+  border-radius: 40%;
+  /* border-top-right-radius: 40%; 
+} */
+
+/* .section1{
+  background-image: url('./Components/images/Myproject-1.jpg') ;
+  background-size: contain;
+  
+} */
+
+.section1 div p{
+  font-family: "Times New Roman",Arial, "Helvetica Neue", Helvetica, sans-serif;
+  text-align: left;
+}
+
+.letter-by-letter {
+  /* font-size: 24px; */
+  animation: fadeIn 2s steps(5) forwards;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* About */
+
+.about{
+  background-color: rgb(116, 108, 108);
+  /* padding: 2rem;
+  padding-top: 5rem;
+  padding-bottom: 5rem; */
+  width: 100vw;
+}
