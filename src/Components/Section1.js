@@ -1,6 +1,12 @@
 import React from 'react';
 import image1 from './images/IMG_0446-01.jpeg';
 import { TypeAnimation } from 'react-type-animation';
+import {
+  AiFillGithub,
+  AiFillInstagram,
+} from "react-icons/ai";
+import { FaLinkedinIn } from "react-icons/fa";
+
 
 export default function Section1() {
   return (
@@ -25,10 +31,39 @@ export default function Section1() {
               // style={{ fontSize: '5em', display: 'inline-block' }}
               />
 
-              <div className='text-white mt-16 text-3xl'>Passionate front-end developer with a proven <br/>track record of  exceptional results. </div>
+              <div className='text-white mt-16 text-3xl'>
+                Passionate front-end developer with a proven <br/>track record of  exceptional results. 
+              </div>
+              <div>
+              <ul
+                data-aos="fade-up"
+                data-aos-duration="1500"
+                className=" flex gap-5 text-center justify-center my-14"
+              >
+              <li>
+                <a href="https://github.com/Prash8245" target='blank'>
+                  {" "}
+                  <AiFillGithub className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125" />{" "}
+                </a>
+              </li>
+              <li>
+                <a href="https://www.linkedin.com/in/prashanth-t-13ba38200/" target='blank'>
+                  {" "}
+                  <FaLinkedinIn className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125 " />{" "}
+                </a>
+              </li>
+              <li>
+                <a href="https://instagram.com/prashh_8245?igshid=MjEwN2IyYWYwYw==" target='blank'>
+                  {" "}
+                  <AiFillInstagram className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125  " />{" "}
+                </a>
+              </li>
+            </ul>
+              </div>
             </div>
-            <img className='w-[20rem] block mx-auto rounded-full mt-24' id='deskImg' src={image1} alt='img' />
-            <div>   </div>
+            <div>   
+              <img className='w-[20rem] block mx-auto rounded-full mt-24' id='deskImg' src={image1} alt='img' />
+            </div>
         </div>
         <div className='block mt-14 sm:hidden'>
             <img className='w-60 h-60 m-7 block mx-auto rounded-full ' src={image1} alt='img' />

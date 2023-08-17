@@ -16,5 +16,33 @@
         "title": "Static E-Commerce Website using React JS" ,
         "description": "The Static E-Commerce Website project is a showcase of my skills in front-end web development, specifically focusing on creating an online shopping experience. This project demonstrates the creation of a static e-commerce platform with an extensive range of 100 items available for purchase. The website is designed to be user-friendly, enabling visitors to easily explore and browse products based on  categories.I utilized React JS to build this website, allowing for efficient organization and rendering of the product catalog. Users can navigate through various product categories, apply filters, and view detailed information about each item. This project showcases my proficiency in structuring user interfaces, implementing navigation features, and integrating dynamic content through React components.",
         "imageSet":["https://i.postimg.cc/Kz8CkGn0/Home2.png","https://i.postimg.cc/05MPcnwc/Shop1.png","https://i.postimg.cc/CxY0MV6Q/Shop2.png","https://i.postimg.cc/kGVZsTY8/Login.png","https://i.postimg.cc/BvBGP7Rn/cart.png"]
+    },
+    {
+        "Certifications":[
+                {
+                    "image":"https://i.postimg.cc/J4nSzwc8/Screenshot-2023-08-17-223416.png",
+                    "title":"Python Bootcamp Certification by Microsoft"
+                },
+                {
+                    "image":"https://i.postimg.cc/G2THCg7x/FEmicrosoft.jpg",
+                    "title":"Front End Webdevelopment Bootcamp by Microsoft"
+                },
+                {
+                    "image":"https://i.postimg.cc/PJGNrb0s/Frontendcertificate.jpg",
+                    "title":"Front End Webdevelopment Bootcamp by Google"
+                },
+                {
+                    "image":"https://i.postimg.cc/bNhd7TQ1/internship.jpg",
+                    "title":"Virtual Internship Certificate by InternPe"
+                },
+                {
+                    "image":"https://i.postimg.cc/cCQCKgNK/Webdevelopment.jpg",
+                    "title":"Web Development Workshop by TWD"
+                },
+                {
+                    "image":"https://i.postimg.cc/PfZPVc8t/CSS.jpg",
+                    "title":"CSS Beginner to Advance Workshop by TWD"
+                }
+            ]
     }
 ]

@@ -22,9 +22,8 @@ export default function ProjectInfo() {
             {
                 data.imageSet.map((element,index)=>{
                     return(
-                        <div>
+                        <div key={index}>
                             <img className='block mx-auto object-contain p-2' src={element} alt="projectgallery" />
-                            {console.log(element)}
                         </div>
                     )
                 },[])

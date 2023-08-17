@@ -32,7 +32,6 @@ export default function componentName() {
                   <li><a href='#about'>About</a></li>
                   <li><a href='#project'>Projects</a></li>
                   <li><a href='#certificate'>Certification</a></li>
-                  <li><a href='#contact'>Contact</a></li>
               </ul>
           </div>
           <div className='mt-9 me-5 block md:hidden cursor-pointer'>
