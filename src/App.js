@@ -5,6 +5,7 @@ import Projects from './Components/Project';
 import Section1 from './Components/Section1';
 import Skill from './Components/Skill';
 
+
 function App() {
   return (
     <div className="App">
