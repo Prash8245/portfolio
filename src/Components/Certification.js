@@ -10,7 +10,7 @@ export default function Certification() {
             <p className='text-5xl text-white'>Certification</p>
             <div className='text-white'>_____________</div>
         </div>
-        <div className='columns-3 gap-5 p-5 m-5'>
+        <div className='columns-1 sm:columns-3 gap-5 p-5 m-5'>
             {
                 certificates.Certifications.map((element,index)=>{
                     return(

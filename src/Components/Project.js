@@ -15,11 +15,11 @@ export default function Projects() {
               <img className='w-[25rem] block mx-auto' src={pro1}  alt='pro' />
               <div className='pt-7'>
                 <p className='text-3xl text-white sm:text-left sm:text-xl'><b>College Clubs and Society Website</b></p>
-                <p className='text-lg text-white sm:text-left my-10'>Developed and implemented a user-friendly website for our college Clubs and 
+                <p className='text-base sm:text-lg text-white sm:text-left my-10'>Developed and implemented a user-friendly website for our college Clubs and 
                 society, improving the communication and Engaging among students. I worked on this project with a team of 5 members,
                 utilizing HTML, CSS, JavaScript and Bootstrap. </p>
                 <div>
-                  <div className='text-left'>
+                  <div className='text-center sm:text-left'>
                     <Link className='text-white bg-sky-600 p-3 rounded-md' to="/project" state={data[0]}>Know more</Link> 
                   </div>
                 </div>                
@@ -29,10 +29,10 @@ export default function Projects() {
               <img className='w-[25rem] block mx-auto' src={pro2}  alt='pro' />
               <div className='pt-7'>
                 <p className='text-3xl text-white sm:text-left sm:text-xl'><b>Static Travels Website</b></p>
-                <p className='text-lg text-white sm:text-left my-10'> Developed a static and Simple travels website that developed individually. 
+                <p className='text-base sm:text-lg text-white sm:text-left my-10'> Developed a static and Simple travels website that developed individually. 
                 It consist of different locations and package for the travels.</p>
                   <div>
-                  <div className='text-left'>
+                  <div className='text-center sm:text-left'>
                     <Link className='text-white bg-sky-600 p-3 rounded-md' to="/project" state={data[1]}>Know more</Link> 
                   </div>
                   </div>
@@ -42,10 +42,10 @@ export default function Projects() {
               <img className='w-[25rem] block mx-auto' src={pro3}  alt='pro' />
               <div className='pt-7'>
                 <p className='text-3xl text-white sm:text-left sm:text-xl'><b>Static E-Commerce Website</b></p>
-                <p className='text-lg text-white sm:text-left my-10'> Developed a static and Simple e-commerce website that I developed for my 
+                <p className='text-base sm:text-lg text-white sm:text-left my-10'> Developed a static and Simple e-commerce website that I developed for my 
                 front end development mini project . It consist of a shop list with 100 items which can be filtered based on their category. </p>
                   <div>
-                  <div className='text-left'>
+                  <div className='text-center sm:text-left'>
                     <Link className='text-white bg-sky-600 p-3 rounded-md' to="/project" state={data[2]}>Know more</Link> 
                   </div>
                   </div>

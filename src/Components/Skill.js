@@ -15,7 +15,7 @@ export default function Skill() {
         </div>
         
         
-        <div className='columns-2'>
+        <div className='columns-2 hidden sm:block'>
             <div className='p-2 m-2 ms-16'>
                 <span className='text-white block text-left ms-5 text-xl'>HTML</span>
                 <div className='h-[5px] w-[50%] bg-white m-5'>
@@ -45,10 +45,7 @@ export default function Skill() {
                 <Cards imgs={java} title="Java"/>
                 <Cards imgs={sql} title="MySQL"/>
             </div>
-            <div>
-
-            </div>
-
+            
         </div>
         <div className='block sm:hidden'>
             <Cards imgs={reactimg} title="ReactJS"/>

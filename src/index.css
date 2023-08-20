@@ -90,7 +90,7 @@ code {
 
 .section1 div p{
   font-family: "Times New Roman",Arial, "Helvetica Neue", Helvetica, sans-serif;
-  text-align: left;
+  /* text-align: left; */
 }
 
 .letter-by-letter {

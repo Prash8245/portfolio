@@ -2,18 +2,24 @@
     {
         "image": "https://i.postimg.cc/g2DWnBCk/Home.png",
         "title": "College Clubs and Society Website" ,
+        "demo":"https://main--nimble-paletas-4bbeb1.netlify.app/",
+        "code":"https://github.com/Prash8245/Club-Website",
         "description": "The College Clubs and Society Website project is an engaging and user-friendly web platform designed to facilitate communication and interaction among students. Developed collaboratively by a team of five members, including myself, the website serves as a hub for students to explore and engage with various college clubs and societies. Utilizing HTML, CSS, JavaScript, and Bootstrap, we created an intuitive interface that showcases each club's details, achievements, events, and opportunities. This project aimed to bridge the gap between students and the vibrant club culture within the college, fostering increased participation and community engagement.The project not only honed my technical skills in front-end development but also provided valuable insights into teamwork, project management, and user-centered design. As a result, the College Clubs and Society Website has contributed to a more connected and informed student body, enhancing the overall college experience.",
         "imageSet": ["https://i.postimg.cc/g2DWnBCk/Home.png","https://i.postimg.cc/0QLgTgwZ/MainClub.png","https://i.postimg.cc/C5fPkzds/Dance-Club1.png","https://i.postimg.cc/0jQxsGW2/Dance-Club2.png","https://i.postimg.cc/NjhhJwc0/Dance-Club3.png","https://i.postimg.cc/K8t6CsGD/Dance-Club4.png"]
     },
     {
         "image":"https://i.postimg.cc/kD3jcqb3/Home3.png",
         "title": "Static Travels Website using React JS" ,
+        "demo":"https://2zmrq4.csb.app/",
+        "code":"https://github.com/Prash8245/Swiftwings-travel-website",
         "description": "The Static Travels Website project is a solo endeavor that highlights my proficiency in front-end web development. project showcases my ability to create a captivating and informative web platform dedicated to travel and exploration. The website features a range of different travel destinations and packages, providing visitors with a glimpse into exciting travel opportunities.<br/><br/>Built using React JS, the website boasts a user-friendly interface that allows users to explore various travel options at their own pace. It offers information about each destination, along with details about the packages available. The website's static nature ensures smooth navigation and quick access to information, enhancing the user experience.<br/><br/> By undertaking this project, I aimed to merge aesthetics with functionality, creating an engaging online space for travel enthusiasts. The Static Travels Website underscores my skills in structuring content, incorporating interactivity through React components, and presenting information in an appealing manner",
         "imageSet":["https://i.postimg.cc/kD3jcqb3/Home3.png","https://i.postimg.cc/wBHCzc38/Home4.png","https://i.postimg.cc/s2HCJGfk/Location.png","https://i.postimg.cc/k4V3YMBB/Package.png","https://i.postimg.cc/V6hZJjsN/Paris.png","https://i.postimg.cc/RZj0LYP1/About.png"]
     },
     {
         "image":"https://i.postimg.cc/Kz8CkGn0/Home2.png",
         "title": "Static E-Commerce Website using React JS" ,
+        "demo":"https://z4vd4s.csb.app/",
+        "code":"https://github.com/Prash8245/Ecommerce-Using-React",
         "description": "The Static E-Commerce Website project is a showcase of my skills in front-end web development, specifically focusing on creating an online shopping experience. This project demonstrates the creation of a static e-commerce platform with an extensive range of 100 items available for purchase. The website is designed to be user-friendly, enabling visitors to easily explore and browse products based on  categories.I utilized React JS to build this website, allowing for efficient organization and rendering of the product catalog. Users can navigate through various product categories, apply filters, and view detailed information about each item. This project showcases my proficiency in structuring user interfaces, implementing navigation features, and integrating dynamic content through React components.",
         "imageSet":["https://i.postimg.cc/Kz8CkGn0/Home2.png","https://i.postimg.cc/05MPcnwc/Shop1.png","https://i.postimg.cc/CxY0MV6Q/Shop2.png","https://i.postimg.cc/kGVZsTY8/Login.png","https://i.postimg.cc/BvBGP7Rn/cart.png"]
     },
